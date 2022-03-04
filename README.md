@@ -21,4 +21,4 @@ I'm a junior full stack developer passionate about creating responsive, optimize
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-liebert&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-liebert&layout=compact)](https://github.com/ana-liebert/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-liebert&layout=compact)
