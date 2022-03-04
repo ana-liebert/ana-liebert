@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #I'm Ana. 
 I'm a junior full stack developer passionate about creating responsive, optimized, and efficient websites, while always working towards learning more.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-liebert&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-liebert&show_icons=true&theme=synthwave)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-liebert&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-liebert&layout=compact)](https://github.com/ana-liebert/github-readme-stats)
