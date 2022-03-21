@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ana. 
-I'm a junior full stack developer passionate about creating responsive, optimized, and efficient websites, while always working towards learning more.
+I'm Ana. I'm a detail-oriented Full Stack Software Engineer with a passion for Front End Development.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-liebert&show_icons=true&theme=synthwave)
 
