@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 
 I'm Ana. I'm a detail-oriented Full Stack Software Engineer with a passion for Front End Development.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-liebert&show_icons=true&theme=synthwave)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-liebert&layout=compact)](https://github.com/ana-liebert/github-readme-stats)
